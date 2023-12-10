@@ -15,7 +15,7 @@ public class CorsConfig {
             "*",
             "https://example.com/",
             "http://127.0.0.1:5500",
-            "http://127.0.0.1:8088"
+            "https://tech-exam.lauraramgil.dk"
     };
     @Bean
     public CorsConfigurationSource corsConfigurationSource() {
